@@ -1,15 +1,69 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-
-- 📫 How to reach me **kunal.81789vishu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull%2BStack%2BDeveloper%3BProblem%2BSolver%3BTech%2BEnthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+💫 About Me:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal18sm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Kunal18sm" /></p>
+🔭 I’m currently working on building scalable web applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal18sm&theme=tokyonight" alt="Kunal18sm" /></p>
+⚡ Fun fact: I love exploring new technologies and cloud orchestration.
+
+📫 How to reach me: kunal.81789vishu@gmail.com
+
+🌐 Connect with me:
+
+<p align="left">
+<a href="mailto:kunal.81789vishu@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail" />
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/kunal18sm" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+</p>
+
+🚀 Languages & Tools:
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,nextjs" alt="Frontend" />
+
+
+
+
+Frontend
+</td>
+<td align="center" width="96">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,mongodb,java" alt="Backend" />
+
+
+
+
+Backend
+</td>
+<td align="center" width="96">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker,kubernetes" alt="DevOps" />
+
+
+
+
+DevOps
+</td>
+</tr>
+</table>
+
+📊 My GitHub Stats:
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkunal18sm%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Kunal's Stats" height="180px" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkunal18sm%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkunal18sm%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D60%26section%3Dfooter" />
+</p>
