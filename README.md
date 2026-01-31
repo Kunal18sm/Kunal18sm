@@ -33,7 +33,7 @@
 ### 🌐 Let's Connect & Collaborate
 
 <p align="left">
-<a href="www.linkedin.com/in/kunal-mishra-3519a5354" target="_blank">
+<a href="https://www.linkedin.com/in/kunal-mishra-3519a5354/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/kunal18sm" target="_blank">
