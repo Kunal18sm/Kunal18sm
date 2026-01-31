@@ -1,15 +1,72 @@
-<h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-
-- 📫 How to reach me **kunal.81789vishu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Banner or Intro GIF -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kunal" alt="Typing     SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal18sm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Kunal18sm" /></p>
+<h1 align="center">🌟 Welcome to My Creative Coding Space!</h1>
 
-<p><img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kunal18sm&layout=compact&theme=tokyonight" alt="Kunal18sm" /></p>
+### 👨‍💻 About Me
+- 🧑‍🎓 Pursuing **BCA (Bachelor of Computer Applications)**
+- 💻 Full Stack Developer | MERN Stack Enthusiast
+- 📧 Contact me → **kunal.817897vishu@gmail.com**
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,github,vscode,office&perline=7" alt="Tech Stack" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kunal18sm&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunal18sm&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+<a href="www.linkedin.com/in/kunal-mishra-3519a5354" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/kunal18sm" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  💬 Feel free to reach out for collaborations, projects, or just to say hi!
+</p>
+
+
+---
+
+### 💬 My Motto
+
+<p align="center">
+  <i>I believe in continuous learning and constantly leveling up my skills.</i>
+  <br>
+  <img src="https://media.tenor.com/AMT-eMhjSywAAAAi/sappy-seals.gif" width="100px" alt="Coding GIF">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontAlignY=75&animation=fadeIn"/>
+</p>
